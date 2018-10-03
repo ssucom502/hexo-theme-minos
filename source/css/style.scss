@@ -1,5 +1,6 @@
-$family-serif: "Ovo", "Georgia", "STZhongsong", "Microsoft YaHei", serif;
-$family-mono: "Source Code Pro", monospace, "Microsoft YaHei";
+@import url(//fonts.googleapis.com/earlyaccess/kopubbatang.css);
+$family-serif: "KoPub Batang", serif;
+$family-mono: "Source Code Pro", Consolas, monospace, "Microsoft YaHei";
 $border-color: #dbdbdb;
 
 body, button, input, select, textarea {
