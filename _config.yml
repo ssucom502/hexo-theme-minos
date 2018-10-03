@@ -24,7 +24,9 @@ article:
 # Navigation bar menu links.
 menu:
   Archives: /archives
-  About: /about
+  Tags: /tags
+  Categories: /categories
+  About : /about
 
 # Search plugin settings.
 search:
